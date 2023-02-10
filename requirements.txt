@@ -1,0 +1,4 @@
+colorama
+art
+ctypes
+pystyle

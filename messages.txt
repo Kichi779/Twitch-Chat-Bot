@@ -1,0 +1,12 @@
+You can use the !help command to view all available commands.
+Use the !schedule command to view the dates of upcoming events.
+Use the !rules command to view the rules of the channel.
+Use the !discord command to connect to our Discord server.
+Use the !subscribe command to subscribe to our channel.
+Use the !donate command to make a donation.
+Use the !social command to view our social media accounts.
+Use the !highlights command to view our best moments.
+Use the !game command to view the games we play.
+Use the !team command to learn about our team.
+https://github.com/Kichi779/Twitch-Chat-Bot
+https://github.com/Kichi779/Twitch-Chat-Bot
