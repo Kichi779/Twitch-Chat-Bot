@@ -8,7 +8,7 @@ https://user-images.githubusercontent.com/92625816/218148752-c331e841-0958-404c-
 
 If you keep the seconds low, your internet should be fast. Slow internet and low per second texts are sent slowly.
 
-# Installation
+# Installation & Tutorial
 - Python must be installed
 - If your Python is not installed, download the latest version (3.11) of python and make sure to click on the 'ADD TO PATH' during installation.
 ```sh
@@ -17,9 +17,13 @@ git clone https://github.com/Kichi779/Twitch-Chat-Bot chatbot
 cd chatbot
 
 pip install -r requirements.txt (Or you can click on install.bat file)
-
-Then you can run it by pressing run.bat from the folder. (If run.bat doesn't work, you can open bot.py by double-clicking the file.)
 ```
+## Usage
+
+- **Put your oauths (bots) in the Oauth.txt file. Then add the messages you want to be written to the messages.txt file, line by line.**
+
+- **Then run the run.bat file or double click the chatbot.py file.**
+
 If you have a problem, come to my discord server. If you don't understand Python, you can also come to my discord server.
 
 # Getting an OAuth code
@@ -34,6 +38,7 @@ If you have a problem, come to my discord server. If you don't understand Python
  [NightfallGT Bot](https://github.com/NightfallGT/Twitch-Follow-Bot)
 
 
+# ⚠️Legal⚠️
 
-
+The software designed to perform website security testing. The author is not responsible for any illegal use of these programs. This is 100% educational, please do not misuse this tool. 
 
