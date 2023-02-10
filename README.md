@@ -8,7 +8,7 @@ https://user-images.githubusercontent.com/92625816/218148752-c331e841-0958-404c-
 
 If you keep the seconds low, your internet should be fast. Slow internet and low per second texts are sent slowly.
 
-# Installation & Tutorial
+# Installation & Usage
 - Python must be installed
 - If your Python is not installed, download the latest version (3.11) of python and make sure to click on the 'ADD TO PATH' during installation.
 ```sh
