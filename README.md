@@ -36,7 +36,12 @@ If you have a problem, come to my discord server. If you don't understand Python
 ### If you do not want to do this operation for each oauth every time. The Easy Way
 - You can solve this problem more easily by using the bot at this github address.
  [NightfallGT Bot](https://github.com/NightfallGT/Twitch-Follow-Bot)
-
+ 
+ 
+ # ⭐Star
+- 25 ⭐ Star - Automatic oauth insertion system 
+- 50 ⭐⭐ Star - A system for selecting a bot and writing what you want.
+- 100 ⭐⭐⭐ Star - The follow mode is for open chats. Automatic tracking system.
 
 # ⚠️Legal⚠️
 
