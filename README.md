@@ -42,7 +42,7 @@ If you have a problem, come to my discord server. If you don't understand Python
  # ⭐Star
 - 25 ⭐ Star - Automatic oauth insertion system 
 - 50 ⭐⭐ Star - A system for selecting a bot and writing what you want.
-- 100 ⭐⭐⭐ Star - The follow mode is for open chats. Automatic tracking system.
+- 100 ⭐⭐⭐ Star - Proxy system much faster sending messages
 
 # ⚠️Legal⚠️
 
