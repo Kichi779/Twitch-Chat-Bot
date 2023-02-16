@@ -4,6 +4,8 @@ import socket
 from colorama import Fore
 from pystyle import Center, Colors, Colorate
 
+os.system(f"title Kichi779 - Twitch Chat bot v1 ")
+
 print(Colorate.Vertical(Colors.cyan_to_blue, Center.XCenter("""
            
                              ▄█   ▄█▄  ▄█    ▄████████    ▄█    █▄     ▄█  
