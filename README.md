@@ -1,4 +1,4 @@
-![218176103-be535108-a89b-40df-98b4-566e05fae04c (1) (1)](https://user-images.githubusercontent.com/92625816/219774074-5c0ba3e3-3fb8-44b4-9a33-6e7d7213bef6.jpg)
+![218176103-be535108-a89b-40df-98b4-566e05fae04c (1)](https://user-images.githubusercontent.com/92625816/219774639-6c550f44-ed0c-4dcd-ba09-f87836dcbaa3.png)
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[Discord](https://discord.gg/aVk4JUFukk)
 ㅤ[Github](https://github.com/Kichi779)
 
