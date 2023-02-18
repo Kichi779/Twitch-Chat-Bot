@@ -28,7 +28,7 @@ pip install -r requirements.txt (Or you can click on install.bat file)
 If you have a problem, come to my discord server. If you don't understand Python, you can also come to my discord server.
 
 # Getting an OAuth code
-### If you don't want to deal with it. You can buy oauth very cheaply. Visit my Discord.
+### If you don't want to deal with it. I can do this for you very cheaply. Visit my Discord.
 - Log in to twitch with your bot account
 - https://twitchapps.com/tmi/ Enter this site and press the connect button.
 - Once you accept the permissions, oauth will appear.
