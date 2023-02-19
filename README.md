@@ -4,6 +4,8 @@
 
 This code is a Python program that can be used to send messages to Twitch channel chat. It will read data from the text file where the code, messages and OAuth keys are stored and send messages to a specific channel at the specified frequency.
 
+If you give a star from the top right, we are adding new features.
+
 # Preview 💬
 https://user-images.githubusercontent.com/92625816/218148752-c331e841-0958-404c-8b0e-ba591181c6e0.mp4
 
