@@ -35,11 +35,6 @@ If you have a problem, come to my discord server. If you don't understand Python
 - https://twitchapps.com/tmi/ Enter this site and press the connect button.
 - Once you accept the permissions, oauth will appear.
 ![Animation1](https://user-images.githubusercontent.com/92625816/218175817-65772671-6d5f-4077-b9b4-bf6c17c6986b.gif)
-
-### If you do not want to do this operation for each oauth every time. The Easy Way
-- You can solve this problem more easily by using the bot at this github address.
- [NightfallGT Bot](https://github.com/NightfallGT/Twitch-Follow-Bot)
- 
  
  # ⭐Star
  ### If you give a star from the top right, we are adding new features.
