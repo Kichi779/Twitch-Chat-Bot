@@ -34,7 +34,7 @@ If you have a problem, come to my discord server. If you don't understand Python
 - Log in to twitch with your bot account
 ⚠️(When you create a new account, confirm the confirmation code sent to the e-mail. (You can do this with temp mail) Otherwise, oauths may not be able to send messages to chat.)
 - https://twitchapps.com/tmi/ Enter this site and press the connect button.
-- Once you accept the permissions, oauth will appear.
+- Once you accept the permissions, oauth will appear
 ![Animation1](https://user-images.githubusercontent.com/92625816/218175817-65772671-6d5f-4077-b9b4-bf6c17c6986b.gif)
  
  # ⭐Star
