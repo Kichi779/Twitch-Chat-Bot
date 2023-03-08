@@ -39,9 +39,9 @@ If you have a problem, come to my discord server. If you don't understand Python
  
  # ⭐Star
  ### If you give a star from the top right, we are adding new features.
-- 25 ⭐ Star - A system for selecting a bot and writing what you want.
-- 50 ⭐⭐ Star - Proxy system much faster sending messages (Oauths do not reset)
-- 100 ⭐⭐⭐ Star - Automatic oauth insertion system
+- 25 ⭐ Star - A system for selecting a bot and writing what you want. ❌
+- 50 ⭐⭐ Star - Proxy system much faster sending messages (Oauths do not reset) ❌
+- 100 ⭐⭐⭐ Star - Automatic oauth insertion system ❌
 
 
 # ⚠️Legal⚠️
