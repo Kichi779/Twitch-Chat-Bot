@@ -9,7 +9,7 @@ If you give a star from the top right we are adding new features
 # Preview 💬
 https://user-images.githubusercontent.com/92625816/218148752-c331e841-0958-404c-8b0e-ba591181c6e0.mp4
 
-⚠️ **If you keep the seconds low, your internet should be fast. Slow internet and low per second texts are sent slowly.**
+⚠️ **If you keep the seconds low, your internet should be fast. Slow internet and low per second texts are sent slowly**
 
 # 📥 Installation & Usage
 - Python must be installed
