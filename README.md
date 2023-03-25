@@ -27,7 +27,6 @@ pip install -r requirements.txt (Or you can click on install.bat file)
 
 - **Then run the run.bat file or double click the chatbot.py file.**
 
-If you have a problem, come to my discord server. If you don't understand Python, you can also come to my discord server.
 
 # Getting an OAuth code
 ### If you don't want to deal with it. I can do this for you very cheaply. Visit my Discord.
