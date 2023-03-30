@@ -18,7 +18,7 @@ print(Colorate.Vertical(Colors.red_to_yellow, Center.XCenter("""
                                    ███   ▀█▀ █▀    ████████▀    ███    █▀    █▀   
                                    ▀                                             
             Improvements can be made to the code. If you're getting an error, visit my discord.
-                                       Discord https://discord.gg/aVk4JUFukk       
+                                       Discord https://discord.gg/AFV9m8UXuT       
                                        Github  https://github.com/kichi779          
                        
                       
