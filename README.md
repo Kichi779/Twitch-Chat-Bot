@@ -29,7 +29,7 @@ pip install -r requirements.txt (Or you can click on install.bat file)
 
 
 # Getting an OAuth code
-### If you don't want to deal with it. I can do this for you very cheaply. [Visit my website](https://kichi779shop.mysellix.io/) or Visit my [Discord](https://discord.gg/AFV9m8UXuT).
+### 💸 If you don't want to deal with it. I can do this for you very cheaply. [Visit my website](https://kichi779shop.mysellix.io/) or Visit my [Discord](https://discord.gg/AFV9m8UXuT).
 - Log in to twitch with your bot account
 ⚠️(When you create a new account, confirm the confirmation code sent to the e-mail. (You can do this with temp mail) Otherwise, oauths may not be able to send messages to chat.)
 - https://twitchapps.com/tmi/ Enter this site and press the connect button.
