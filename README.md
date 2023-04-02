@@ -25,7 +25,7 @@ pip install -r requirements.txt (Or you can click on install.bat file)
 
 - **Put your oauths (bots) in the Oauth.txt file. Then add the messages you want to be written to the messages.txt file, line by line.**
 
-### If you need chat messages for games, you can find them on our [discord server.](https://discord.gg/AFV9m8UXuT)
+### 💬 If you need chat messages for games, you can find them on our [discord server.](https://discord.gg/AFV9m8UXuT) Free
 
 - **Then run the run.bat file or double click the chatbot.py file.**
 
