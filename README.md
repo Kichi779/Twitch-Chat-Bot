@@ -44,6 +44,12 @@ pip install -r requirements.txt (Or you can click on install.bat file)
 - 50 ⭐⭐ Star - Proxy system much faster sending messages (Oauths do not reset) ❌
 - 100 ⭐⭐⭐ Star - Automatic oauth insertion system ❌
 
+# [🛒 Shop](https://kichi779shop.mysellix.io/en-en/)
+
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ https://kichi779shop.mysellix.io/en-en/
+
+[![Animation1](https://user-images.githubusercontent.com/92625816/230116083-0fd31c4b-a058-4baa-add6-585292097b58.gif)](https://kichi779shop.mysellix.io/en-en/)
+
 
 # ⚠️Legal⚠️
 
