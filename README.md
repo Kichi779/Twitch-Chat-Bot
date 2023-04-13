@@ -41,7 +41,7 @@ pip install -r requirements.txt (Or you can click on install.bat file)
  # ⭐Star
  ### If you give a star from the top right, we are adding new features.
 - 25 ⭐ Star - A system for selecting a bot and writing what you want. ✔️ 13.03.2023
-- 50 ⭐⭐ Star - Proxy system much faster sending messages (Oauths do not reset) ❌
+- 50 ⭐⭐ Star - Proxy system much faster sending messages  ❌
 - 100 ⭐⭐⭐ Star - Automatic oauth insertion system ❌
 
 # [🛒 Shop](https://kichi779shop.mysellix.io/en-en/)
