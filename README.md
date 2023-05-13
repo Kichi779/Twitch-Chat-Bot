@@ -4,6 +4,8 @@
 
 This code is a Python program that can be used to send messages to Twitch channel chat. It will read data from the text file where the code, messages and OAuth keys are stored and send messages to a specific channel at the specified frequency.
 
+Using the chatbot will not result in your account being banned
+
 If you give a star from the top right we are adding new features
 
 # Preview 💬
