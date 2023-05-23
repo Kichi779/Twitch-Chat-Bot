@@ -33,7 +33,7 @@ pip install -r requirements.txt (Or you can click on install.bat file)
 
 
 # Getting an OAuth code
-### 💸 If you don't want to deal with it. I can do this for you very cheaply. [Visit my website](https://kichi779shop.mysellix.io/) or Visit my [Discord](https://discord.gg/AFV9m8UXuT).
+### 💸 If you don't want to deal with it. I can do this for you very cheaply. [Visit my website](https://kichi779.online/) or Visit my [Discord](https://discord.gg/AFV9m8UXuT).
 - Log in to twitch with your bot account
 ⚠️(When you create a new account, confirm the confirmation code sent to the e-mail. (You can do this with temp mail) Otherwise, oauths may not be able to send messages to chat.)
 - https://twitchapps.com/tmi/ Enter this site and press the connect button.
@@ -45,9 +45,9 @@ pip install -r requirements.txt (Or you can click on install.bat file)
 - 25 ⭐ Star - A system for selecting a bot and writing what you want. ✔️ 13.03.2023
 - 50 ⭐⭐ Star - Proxy system much faster sending messages  ❌
 
-# [🛒 Shop](https://kichi779shop.mysellix.io/en-en/)
+# [🛒 Shop](https://kichi779.online/)
 
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤWebsite: https://kichi779shop.sellix.io
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤWebsite: https://kichi779.online/
 
  [![Shop](https://user-images.githubusercontent.com/92625816/230799946-2af1a68f-ebcf-4379-9d00-0921e9c799bb.png)](https://github.com/Kichi779/Kichi779-SMM-Shop)
  
