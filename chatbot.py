@@ -33,7 +33,7 @@ print(Colorate.Vertical(Colors.red_to_yellow, Center.XCenter("""
                        ███   ▀█▀ █▀    ████████▀    ███    █▀    █▀   
                        ▀                                             
  Improvements can be made to the code. If you're getting an error, visit my discord.
-                             Discord discord.gg/UkSJP8RUxcT    
+                             Discord discord.gg/fesaScZqpn   
                              Github  github.com/kichi779    """)))
 announcement = print_announcement()
 print("")
