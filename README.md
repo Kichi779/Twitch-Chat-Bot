@@ -1,6 +1,5 @@
 ![218176103-be535108-a89b-40df-98b4-566e05fae04c (1)](https://user-images.githubusercontent.com/92625816/219774639-6c550f44-ed0c-4dcd-ba09-f87836dcbaa3.png)
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[Discord](https://discord.gg/fesaScZqpn) 
-ㅤ[Github](https://github.com/Kichi779)
+
 
 This code is a Python program that can be used to send messages to Twitch channel chat. It will read data from the text file where the code, messages and OAuth keys are stored and send messages to a specific channel at the specified frequency.
 
@@ -27,13 +26,10 @@ pip install -r requirements.txt (Or you can click on install.bat file)
 
 - **Put your oauths (bots) in the Oauth.txt file. Then add the messages you want to be written to the messages.txt file, line by line.**
 
-### 💬 If you need chat messages for games, you can find them on our [discord server.](https://discord.gg/AFV9m8UXuT) Free
-
 - **Then run the run.bat file or double click the chatbot.py file.**
 
 
 # Getting an OAuth code
-### 💸 If you don't want to deal with it. I can do this for you very cheaply. [Visit my website](https://kichi779.online/) or Visit my [Discord](https://discord.gg/AFV9m8UXuT).
 - Log in to twitch with your bot account
 ⚠️(When you create a new account, confirm the confirmation code sent to the e-mail. (You can do this with temp mail) Otherwise, oauths may not be able to send messages to chat.)
 - https://twitchapps.com/tmi/ Enter this site and press the connect button.
@@ -44,17 +40,6 @@ pip install -r requirements.txt (Or you can click on install.bat file)
  ### If you give a star from the top right, we are adding new features.
 - 25 ⭐ Star - A system for selecting a bot and writing what you want. ✔️ 13.03.2023
 - 50 ⭐⭐ Star - Proxy system much faster sending messages  ❌
-
-# [🛒 Shop](https://kichi779.online/)
-
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤWebsite: https://kichi779.online/
-
- [![Shop](https://user-images.githubusercontent.com/92625816/230799946-2af1a68f-ebcf-4379-9d00-0921e9c799bb.png)](https://github.com/Kichi779/Kichi779-SMM-Shop)
- 
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ For $5 you can get 50 realistic old created oauths
-
- ![image](https://user-images.githubusercontent.com/92625816/234044308-f981a4c4-3ecb-4827-80c7-378d2fb0176e.png)
-
 
 
 # ⚠️Legal⚠️
