@@ -41,6 +41,7 @@ pip install -r requirements.txt (Or you can click on install.bat file)
 - 25 ⭐ Star - A system for selecting a bot and writing what you want. ✔️ 13.03.2023
 - 50 ⭐⭐ Star - Proxy system much faster sending messages  ❌
 
+![BANANACAT](https://github.com/Kichi779/Twitch-Chat-Bot/assets/92625816/4e649089-fc37-4b73-ab3c-eb57a6ac90ce)
 
 # ⚠️Legal⚠️
 
