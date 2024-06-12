@@ -35,11 +35,24 @@ pip install -r requirements.txt (Or you can click on install.bat file)
 - https://twitchapps.com/tmi/ Enter this site and press the connect button.
 - Once you accept the permissions, oauth will appear
 ![Animation1](https://user-images.githubusercontent.com/92625816/218175817-65772671-6d5f-4077-b9b4-bf6c17c6986b.gif)
+
  
  # ⭐Star
  ### If you give a star from the top right, we are adding new features.
 - 25 ⭐ Star - A system for selecting a bot and writing what you want. ✔️ 13.03.2023
 - 50 ⭐⭐ Star - Proxy system much faster sending messages  ❌
+
+  # ![kichi779shoppanel](https://github.com/Kichi779/Twitch-Chat-Bot/assets/92625816/e78969b1-80e0-4349-9d0f-872563ba0a14)
+  ## Boost Your Twitch, YouTube, Instagram, and Spotify Accounts with Our SMM Panel!
+
+- ### Twitch Chat TOKENS
+- Twitch Followers & Views: Enhance your Twitch channel with genuine followers and views to increase your visibility and attract more organic growth.
+- YouTube Subscribers, Likes & Views: Boost your YouTube channel with real subscribers, likes, and views to improve your engagement and ranking.
+- Instagram Followers, Likes & Comments: Grow your Instagram profile with authentic followers, likes, and comments to strengthen your online presence and influence.
+- Spotify Plays & Followers: Increase your Spotify plays and followers to get your music heard by a wider audience and climb the charts.
+-  ### AND MORE
+
+
 
  
 # ⚠️Legal⚠️
