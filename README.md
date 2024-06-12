@@ -1,5 +1,5 @@
 ![218176103-be535108-a89b-40df-98b4-566e05fae04c (1)](https://user-images.githubusercontent.com/92625816/219774639-6c550f44-ed0c-4dcd-ba09-f87836dcbaa3.png)
-
+‎‎‎‎‏‏‎‏‎‏‎‎‏‎‏‎‏‎‏‎ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ‏‎‏‎[WEBSITE](https://kichi779.com/) ‏‎‏‎‏‎[DISCORD](https://discord.gg/3Wp3amnNr3)
 
 This code is a Python program that can be used to send messages to Twitch channel chat. It will read data from the text file where the code, messages and OAuth keys are stored and send messages to a specific channel at the specified frequency.
 
@@ -43,6 +43,7 @@ pip install -r requirements.txt (Or you can click on install.bat file)
 - 50 ⭐⭐ Star - Proxy system much faster sending messages  ❌
 
   # ![kichi779shoppanel](https://github.com/Kichi779/Twitch-Chat-Bot/assets/92625816/e78969b1-80e0-4349-9d0f-872563ba0a14)
+    ‎‎‎‎‏‏‎‏‎‏‎‎‏‎‏‎‏‎‏‎ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ‏‎‏‎‏‎[WEBSITE](https://kichi779.com/) ‏‎‏‎‏‎[DISCORD](https://discord.gg/3Wp3amnNr3)
   ## Boost Your Twitch, YouTube, Instagram, and Spotify Accounts with Our SMM Panel!
 
 - ### Twitch Chat TOKENS
