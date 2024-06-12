@@ -2,6 +2,7 @@ import os
 import time
 import socket
 import requests
+import random
 from colorama import Fore
 from pystyle import Center, Colors, Colorate
 
@@ -52,15 +53,22 @@ oauths = []
 if message_option == "1":
     with open("messages.txt", "r") as file:
         messages = file.readlines()
-
+    rand_option = input(Colorate.Vertical(Colors.green_to_blue,"Do you want the messages to be randomized? (1. yes, 2. no)"))
     interval = int(input(Colorate.Vertical(Colors.green_to_blue,"How often should your messages be sent? (Seconds): ")))
-    index = 0
+    if rand_option != 1:
+        index = 0
+    
 
 while True:
     if message_option == "1":
-        message = messages[index % len(messages)].strip()
-        index += 1
-        time.sleep(interval)
+        if rand_option == "1":
+            index = random.randint(1,len(messages))
+            message = messages[index % len(messages)].strip()
+            time.sleep(interval)
+        else:
+            message = messages[index % len(messages)].strip()
+            index += 1
+            time.sleep(interval)
     else:
         with open("oauths.txt", "r") as file:
             oauths = file.readlines()
