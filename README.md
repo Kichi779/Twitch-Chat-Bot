@@ -46,6 +46,8 @@ pip install -r requirements.txt (Or you can click on install.bat file)
     ‎‎‎‎‏‏‎‏‎‏‎‎‏‎‏‎‏‎‏‎ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ‏‎‏‎‏‎[WEBSITE](https://kichi779.com/) ‏‎‏‎‏‎[DISCORD](https://discord.gg/3Wp3amnNr3)
   ## Boost Your Twitch, YouTube, Instagram, and Spotify Accounts with Our SMM Panel!
 
+  ![Animation4](https://github.com/Kichi779/Twitch-Viewer-Bot/assets/92625816/55cde7e4-1579-448e-9fab-a012b7add597)
+
 - ### Twitch Chat TOKENS
 - Twitch Followers & Views: Enhance your Twitch channel with genuine followers and views to increase your visibility and attract more organic growth.
 - YouTube Subscribers, Likes & Views: Boost your YouTube channel with real subscribers, likes, and views to improve your engagement and ranking.
