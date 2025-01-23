@@ -5,7 +5,7 @@ This code is a Python program that can be used to send messages to Twitch channe
 
 Using the chatbot will not result in your account being banned
 
-If you give a star from the top right we are adding new features
+If you give a star from the top right we are adding new features.
 
 # Preview 💬
 https://user-images.githubusercontent.com/92625816/218148752-c331e841-0958-404c-8b0e-ba591181c6e0.mp4
