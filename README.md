@@ -48,8 +48,14 @@ pip install -r requirements.txt (Or you can click on install.bat file)
  
 # ⚠️Legal⚠️
 
-The software designed to perform website security testing. The author is not responsible for any illegal use of these programs. This is 100% educational, please do not misuse this tool. 
+This software is developed solely for educational and security research purposes, specifically for website security testing. The author is not responsible for any misuse, illegal activities, or unauthorized access conducted using this tool. By using this software, you acknowledge that any consequences of improper or unethical use are entirely your responsibility.
 
-If there is a legal problem, please contact my e-mail address.
+This software is developed using Python and operates with the Requests module. It is an automated system that does not collect, store, or share any personal data. The tool is designed strictly for cybersecurity testing, data mining algorithms, and ethical vulnerability analysis.
+
+Additionally, this software is intended to provide educational insights into brute force attacks, data mining algorithms, and automated request-sending techniques. Any misuse is strictly prohibited, and all responsibility lies with the user.
+
+Any unauthorized use of this software for malicious activities such as hacking, credential theft, or unauthorized data access is strictly forbidden.
+
+If you have any legal concerns, please contact me via email.
 
 kichi779@protonmail.com
