@@ -42,6 +42,17 @@ pip install -r requirements.txt (Or you can click on install.bat file)
 - 25 ⭐ Star - A system for selecting a bot and writing what you want. ✔️ 13.03.2023
 - 50 ⭐⭐ Star - Proxy system much faster sending messages  ❌
 
+# Support Me 🙋‍♂️
+🚀 If you want to support me and help take this project even further, you can follow my GitHub account by clicking the link below! 🔗
+
+I share these projects completely for free 🎁, and it only takes 10 seconds to follow! ⏳
+
+Even if you don’t follow, just visiting the link and skipping the ads helps me out! 🙌
+
+👉 [[SUPPORT ME]](https://lnk.news/eP)
+
+Thanks for your support! ❤️🔥
+
 
 
 
