@@ -1,5 +1,5 @@
 ![218176103-be535108-a89b-40df-98b4-566e05fae04c (1)](https://user-images.githubusercontent.com/92625816/219774639-6c550f44-ed0c-4dcd-ba09-f87836dcbaa3.png)
-‎‎‎‎‏‏‎‏‎‏‎‎‏‎‏‎‏‎‏‎ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ‏‎‏‎[WEBSITE](https://kichi779.com/) ‏‎‏‎‏‎[DISCORD](https://discord.gg/3Wp3amnNr3)
+‎‎‎‎‏‏‎‏‎‏‎‎‏‎‏‎‏‎‏‎ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ‏‎‏‎[WEBSITE](https://kichimedia.com/) ‏‎‏‎‏‎[DISCORD](https://discord.gg/3Wp3amnNr3)
 
 This code is a Python program that can be used to send messages to Twitch channel chat. It will read data from the text file where the code, messages and OAuth keys are stored and send messages to a specific channel at the specified frequency.
 
@@ -42,16 +42,20 @@ pip install -r requirements.txt (Or you can click on install.bat file)
 - 25 ⭐ Star - A system for selecting a bot and writing what you want. ✔️ 13.03.2023
 - 50 ⭐⭐ Star - Proxy system much faster sending messages  ❌
 
-# Support Me 🙋‍♂️
-🚀 If you want to support me and help take this project even further, you can follow my GitHub account by clicking the link below! 🔗
+# My Website
+<a href="https://kichimedia.com" target="_blank">
+  <img width="1158" height="215" alt="230797452-7a2962d1-88ad-40e1-9e06-d50bb31cdc14 (1)" src="https://github.com/user-attachments/assets/1c62661d-5b8d-49c7-94c0-70b5bb1ebe7d" />
+</a>
 
-I share these projects completely for free 🎁, and it only takes 10 seconds to follow! ⏳
+🚀 Want to skyrocket your social media engagement? Check out **KichiMedia**, the #1 cheapest and highest quality SMM Panel in the world! 🔗
 
-Even if you don’t follow, just visiting the link and skipping the ads helps me out! 🙌
+We provide fast, reliable, and fully automated services for all platforms. 📈 It only takes seconds to start growing your accounts! ⏳
 
-👉 [[SUPPORT ME]](https://lnk.news/eP)
+Visit our website, explore our unbeatable prices, and start boosting your online presence today! 🙌
 
-Thanks for your support! ❤️🔥
+👉 [[VISIT KICHIMEDIA]](https://kichimedia.com)
+
+Take your social media to the next level! ❤️🔥
 
 
 
